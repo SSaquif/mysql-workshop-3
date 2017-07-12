@@ -1,0 +1,9 @@
+mysql> source e8.sql
++----------+------------+
+| subtype  | occurances |
++----------+------------+
+| landline |        172 |
+| cellular |        139 |
+| fax      |        135 |
++----------+------------+
+3 rows in set (0.00 sec)

@@ -1,0 +1,8 @@
+mysql> source e6.sql
++-----------+----------+----------------+
+| firstName | lastName | content        |
++-----------+----------+----------------+
+| Charlotte | Jenkins  | (110) 167-3420 |
+| Charlotte | Jenkins  | (605) 175-1334 |
++-----------+----------+----------------+
+2 rows in set (0.01 sec)
